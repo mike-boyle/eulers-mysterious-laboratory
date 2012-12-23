@@ -4,7 +4,7 @@
     <list default="true" id="c473fb93-ec3a-43d4-abab-b0599380e77e" name="Default" comment="" />
     <ignored path="euler.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/0003.scala" changelist="c473fb93-ec3a-43d4-abab-b0599380e77e" time="1356282617671" ignored="false" />
+    <file path="/0003.scala" changelist="c473fb93-ec3a-43d4-abab-b0599380e77e" time="1356285056240" ignored="false" />
     <file path="/0002.scala" changelist="c473fb93-ec3a-43d4-abab-b0599380e77e" time="1356284013772" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,10 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="0003.scala" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="0003.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/0003.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
+            <state line="4" column="4" selection-start="169" selection-end="169" vertical-scroll-proportion="0.13100436">
               <folding />
             </state>
           </provider>
@@ -82,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0001.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="0001.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/0001.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0">
@@ -110,8 +110,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/0003.scala" />
         <option value="$PROJECT_DIR$/src/0002.scala" />
+        <option value="$PROJECT_DIR$/src/0003.scala" />
       </list>
     </option>
   </component>
@@ -195,7 +195,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Euler0002">
+  <component name="RunManager" selected="Application.Euler0003">
     <configuration default="false" name="Euler0001" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Euler0001" />
       <option name="VM_PARAMETERS" />
@@ -339,8 +339,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.Euler0002" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Euler0003" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Euler0003" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Euler0002" />
         <item index="2" class="java.lang.String" itemvalue="Application.Euler0001" />
       </list>
     </recent_temporary>
@@ -444,9 +444,16 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/0003.scala">
+    <entry file="file://$PROJECT_DIR$/src/0002.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
+        <state line="5" column="18" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/0001.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -458,16 +465,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/0002.scala">
+    <entry file="file://$PROJECT_DIR$/src/0003.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0001.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0">
+        <state line="4" column="4" selection-start="169" selection-end="169" vertical-scroll-proportion="0.13100436">
           <folding />
         </state>
       </provider>
