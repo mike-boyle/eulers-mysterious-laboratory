@@ -14,6 +14,7 @@
     <file path="/Euler0007.scala" changelist="c473fb93-ec3a-43d4-abab-b0599380e77e" time="1356289104609" ignored="false" />
     <file path="/Euler0008.scala" changelist="c473fb93-ec3a-43d4-abab-b0599380e77e" time="1356292507999" ignored="false" />
     <file path="/Euler0009.scala" changelist="c473fb93-ec3a-43d4-abab-b0599380e77e" time="1356380143009" ignored="false" />
+    <file path="/Euler0010.scala" changelist="c473fb93-ec3a-43d4-abab-b0599380e77e" time="1356380274372" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,15 +109,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Euler0006.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Euler0006.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="51" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Euler0007.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Euler0007.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -135,10 +127,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Euler0009.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Euler0009.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Euler0009.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="24" selection-start="299" selection-end="299" vertical-scroll-proportion="0.37931034">
+            <state line="11" column="24" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Euler0010.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Euler0010.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="19" selection-start="134" selection-end="134" vertical-scroll-proportion="0.13793103">
               <folding />
             </state>
           </provider>
@@ -181,6 +182,7 @@
         <option value="$PROJECT_DIR$/src/Euler0007.scala" />
         <option value="$PROJECT_DIR$/src/Euler0008.scala" />
         <option value="$PROJECT_DIR$/src/Euler0009.scala" />
+        <option value="$PROJECT_DIR$/src/Euler0010.scala" />
       </list>
     </option>
   </component>
@@ -266,23 +268,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Euler0009">
-    <configuration default="false" name="Euler0005" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Euler0005" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="euler" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Euler0010">
     <configuration default="false" name="Euler0006" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Euler0006" />
       <option name="VM_PARAMETERS" />
@@ -339,6 +325,22 @@
     </configuration>
     <configuration default="false" name="Euler0009" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Euler0009" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="euler" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Euler0010" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Euler0010" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -442,19 +444,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Euler0005" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Euler0006" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Euler0007" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Euler0008" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Euler0009" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Euler0006" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Euler0007" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Euler0008" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Euler0009" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Euler0010" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Euler0009" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Euler0008" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Euler0007" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Euler0006" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Euler0005" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Euler0010" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Euler0009" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Euler0008" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Euler0007" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Euler0006" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -473,7 +475,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1420" height="845" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -557,13 +559,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Euler0006.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="51" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Euler0007.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="4" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
@@ -664,7 +659,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Euler0009.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="299" selection-end="299" vertical-scroll-proportion="0.37931034">
+        <state line="11" column="24" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Euler0010.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="134" selection-end="134" vertical-scroll-proportion="0.13793103">
           <folding />
         </state>
       </provider>
